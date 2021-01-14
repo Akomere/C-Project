@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="C++ Assignment_Fantasy Game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C++ Assignment_Fantasy Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C++ Assignment_Fantasy Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BoardGame.cpp" />
+		<Unit filename="BoardGame.h" />
+		<Unit filename="Dagger.cpp" />
+		<Unit filename="Dagger.h" />
+		<Unit filename="Dwarf.cpp" />
+		<Unit filename="Dwarf.h" />
+		<Unit filename="Elf.cpp" />
+		<Unit filename="Elf.h" />
+		<Unit filename="HeavyGear.cpp" />
+		<Unit filename="HeavyGear.h" />
+		<Unit filename="Hobbit.cpp" />
+		<Unit filename="Hobbit.h" />
+		<Unit filename="Human.cpp" />
+		<Unit filename="Human.h" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.h" />
+		<Unit filename="LargeShield.cpp" />
+		<Unit filename="LargeShield.h" />
+		<Unit filename="LeatherArmour.cpp" />
+		<Unit filename="LeatherArmour.h" />
+		<Unit filename="LightGear.cpp" />
+		<Unit filename="LightGear.h" />
+		<Unit filename="Orc.cpp" />
+		<Unit filename="Orc.h" />
+		<Unit filename="PlateArmour.cpp" />
+		<Unit filename="PlateArmour.h" />
+		<Unit filename="Race.cpp" />
+		<Unit filename="Race.h" />
+		<Unit filename="RingOfLife.cpp" />
+		<Unit filename="RingOfLife.h" />
+		<Unit filename="RingOfStren.cpp" />
+		<Unit filename="RingOfStren.h" />
+		<Unit filename="SmallShield.cpp" />
+		<Unit filename="SmallShield.h" />
+		<Unit filename="Sword.cpp" />
+		<Unit filename="Sword.h" />
+		<Unit filename="Weapons.cpp" />
+		<Unit filename="Weapons.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

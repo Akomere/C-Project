@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1609099170 source:d:\peter\c++ assignment_fantasy game\boardgame.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"BoardGame.h"
+	"Sword.h"
+	"Human.h"
+	"Elf.h"
+	"Orc.h"
+	"Dwarf.h"
+	"Hobbit.h"
+	"Sword.h"
+	"Dagger.h"
+	"PlateArmour.h"
+	"LeatherArmour.h"
+	"SmallShield.h"
+	"LargeShield.h"
+	"RingOfLife.h"
+	"RingOfStren.h"
+
+1609098942 d:\peter\c++ assignment_fantasy game\boardgame.h
+	"Human.h"
+	"Orc.h"
+	"Weapons.h"
+
+1609085084 d:\peter\c++ assignment_fantasy game\human.h
+	"Race.h"
+
+1609098632 d:\peter\c++ assignment_fantasy game\race.h
+
+1609084780 d:\peter\c++ assignment_fantasy game\orc.h
+	"Race.h"
+
+1609090042 d:\peter\c++ assignment_fantasy game\weapons.h
+	"Item.h"
+
+1609088538 d:\peter\c++ assignment_fantasy game\item.h
+
+1609089216 d:\peter\c++ assignment_fantasy game\sword.h
+	"Weapons.h"
+	"Item.h"
+
+1609089772 d:\peter\c++ assignment_fantasy game\elf.h
+	"Race.h"
+
+1609087862 d:\peter\c++ assignment_fantasy game\dwarf.h
+	"Race.h"
+
+1609089868 d:\peter\c++ assignment_fantasy game\hobbit.h
+	"Race.h"
+
+1609088634 d:\peter\c++ assignment_fantasy game\dagger.h
+	"Weapons.h"
+
+1609091544 d:\peter\c++ assignment_fantasy game\platearmour.h
+	"HeavyGear.h"
+
+1609091498 d:\peter\c++ assignment_fantasy game\heavygear.h
+	"Item.h"
+
+1609091526 d:\peter\c++ assignment_fantasy game\leatherarmour.h
+	<iostream>
+	"LightGear.h"
+
+1609100502 d:\peter\c++ assignment_fantasy game\lightgear.h
+	"Item.h"
+
+1609091800 d:\peter\c++ assignment_fantasy game\smallshield.h
+	"LightGear.h"
+
+1609091526 d:\peter\c++ assignment_fantasy game\largeshield.h
+	"HeavyGear.h"
+
+1609091570 d:\peter\c++ assignment_fantasy game\ringoflife.h
+	"Item.h"
+
+1609090204 d:\peter\c++ assignment_fantasy game\ringofstren.h
+	"Item.h"
+
+1609091010 source:d:\peter\c++ assignment_fantasy game\dagger.cpp
+	<iostream>
+	"Weapons.h"
+	"Dagger.h"
+
+1609088778 source:d:\peter\c++ assignment_fantasy game\dwarf.cpp
+	<iostream>
+	"Dwarf.h"
+	"Race.h"
+	<time.h>
+
+1609088778 source:d:\peter\c++ assignment_fantasy game\elf.cpp
+	<iostream>
+	"Elf.h"
+	"Race.h"
+	<time.h>
+
+1609090930 source:d:\peter\c++ assignment_fantasy game\heavygear.cpp
+	<iostream>
+	"HeavyGear.h"
+
+1609087834 source:d:\peter\c++ assignment_fantasy game\hobbit.cpp
+	<iostream>
+	"Hobbit.h"
+	"Race.h"
+	<time.h>
+
+1609088778 source:d:\peter\c++ assignment_fantasy game\human.cpp
+	<iostream>
+	"Human.h"
+	"Race.h"
+	<time.h>
+
+1609090824 source:d:\peter\c++ assignment_fantasy game\item.cpp
+	<iostream>
+	"Item.h"
+
+1609090742 source:d:\peter\c++ assignment_fantasy game\largeshield.cpp
+	<iostream>
+	"LargeShield.h"
+
+1609090674 source:d:\peter\c++ assignment_fantasy game\leatherarmour.cpp
+	<iostream>
+	"LightGear.h"
+	"LeatherArmour.h"
+
+1609090610 source:d:\peter\c++ assignment_fantasy game\lightgear.cpp
+	<iostream>
+	"Item.h"
+	"LightGear.h"
+
+1609101386 source:d:\peter\c++ assignment_fantasy game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Human.h"
+	"Orc.h"
+	"Dwarf.h"
+	"Hobbit.h"
+	"Elf.h"
+	"Sword.h"
+	"Dagger.h"
+	"PlateArmour.h"
+	"LeatherArmour.h"
+	"LargeShield.h"
+	"SmallShield.h"
+	"RingOfLife.h"
+	"RingOfStren.h"
+	"BoardGame.h"
+
+1609091162 source:d:\peter\c++ assignment_fantasy game\platearmour.cpp
+	<iostream>
+	"HeavyGear.h"
+	"PlateArmour.h"
+
+1609097522 source:d:\peter\c++ assignment_fantasy game\race.cpp
+	<iostream>
+	<ctime>
+	<random>
+	"Race.h"
+
+1609091778 source:d:\peter\c++ assignment_fantasy game\ringoflife.cpp
+	<iostream>
+	"RingOfLife.h"
+
+1609100382 source:d:\peter\c++ assignment_fantasy game\orc.cpp
+	<iostream>
+	"Orc.h"
+	"Human.h"
+	<time.h>
+	"BoardGame.h"
+
+1609091670 source:d:\peter\c++ assignment_fantasy game\ringofstren.cpp
+	<iostream>
+	"RingOfStren.h"
+
+1609091238 source:d:\peter\c++ assignment_fantasy game\smallshield.cpp
+	<iostream>
+	"SmallShield.h"
+	"LightGear.h"
+
+1609091164 source:d:\peter\c++ assignment_fantasy game\sword.cpp
+	<iostream>
+	"Weapons.h"
+	"Sword.h"
+
+1609091080 source:d:\peter\c++ assignment_fantasy game\weapons.cpp
+	<iostream>
+	"Weapons.h"
+
